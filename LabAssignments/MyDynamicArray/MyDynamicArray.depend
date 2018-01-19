@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1487637738 source:f:\c++\comsc210\labassignments\mydynamicarray\main.cpp
+	<iostream>
+	<string>
+	<cassert>
+	"MyDynamicArray.h"
+	"MyDynamicArray.h"
+
+1487958780 f:\c++\comsc210\labassignments\mydynamicarray\mydynamicarray.h
+	<algorithm>
+

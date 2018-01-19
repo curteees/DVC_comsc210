@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1489483536 source:f:\c++\comsc210\labassignments\assignment6_rnp\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"MyStack.h"
+
+1489476318 f:\c++\comsc210\labassignments\assignment6_rnp\mystack.h
+	<algorithm>
+

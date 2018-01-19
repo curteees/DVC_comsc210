@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1487014372 source:f:\c++\comsc210\labassignments\mystaticarray\main.cpp
+	<iostream>
+	"MyStaticArray.h"
+	"MyStaticArray.h"
+
+1487015366 f:\c++\comsc210\labassignments\mystaticarray\mystaticarray.h
+
